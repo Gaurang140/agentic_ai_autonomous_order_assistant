@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+agentic_env/
+python_code/rules_basket.pkl
+python_code/dataset/
+python_code/products
